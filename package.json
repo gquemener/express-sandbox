@@ -1,0 +1,18 @@
+{
+  "name": "express-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox around the Express.js framework",
+  "main": "app.js",
+  "repository": "git@github.com:gquemener/express-sandbox.git",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gildas Quéméner <gildas.quemener@gmail.com>",
+  "license": "ISC"
+}
